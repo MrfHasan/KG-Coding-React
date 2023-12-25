@@ -6,9 +6,9 @@ function Hello() {
 
     }
   
-    return <h3>
-        Message No - {number}: I am {fullName()}.
-      </h3>
+    return <p>
+        Message No - {number}. I am {fullName()}.
+      </p>
     
   }
   
