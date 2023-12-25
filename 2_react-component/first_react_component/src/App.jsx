@@ -1,12 +1,11 @@
-import MrfButton from "./MrfButton"; 
+import Hello from "./Hello"; 
 function App(){
 return <div>
   <h1>
-  Hello World !
+  This is React Learning Project
   </h1>
-<MrfButton></MrfButton>  
+<Hello></Hello>  
 </div>
-
 
 
 }
