@@ -1,12 +1,10 @@
-import MrfButton from "./assets/MrfButton";
-
+import MrfButton from "./MrfButton"; 
 function App(){
 return <div>
   <h1>
   Hello World !
   </h1>
-  <Mrf></Mrf>
-
+<MrfButton></MrfButton>  
 </div>
 
 
